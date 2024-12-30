@@ -152,7 +152,7 @@ def preprocess_question(question):
     preprocessed_question = ' '.join(preprocessed_tokens)
     preprocessed_question = preprocessed_question.capitalize()
     
-    return preprocessed_question
+    return question
 
 def get_embedding_function():
     return GoogleGenerativeAIEmbeddings(model="models/embedding-001")
