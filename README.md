@@ -128,13 +128,3 @@ This will launch the app in your default web browser.
 ## 📬 Feedback and Contributions
 
 Feel free to open issues, suggest features, or submit PRs!
-
----
-
-## 📄 License
-
-MIT License. See `LICENSE` for more details.
-
-```
-
-Let me know if you want a version with example screenshots or deployment instructions (e.g., Streamlit Cloud or Docker).
